@@ -1,5 +1,5 @@
 # Chatbot-using-Openai-GPT-3
-Building a smart home devices chatbot with OpenAI's GPT-3 engine
+Building chatbot which answers all the questions about Amazon Echo. Chatbot is built using OpenAI's GPT-3 engine, which is a highly advanced language model trained on a very large corpus of text. 
 
 Requirements:
 
