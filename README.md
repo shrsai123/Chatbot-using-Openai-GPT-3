@@ -3,8 +3,8 @@ Building a smart home devices chatbot with OpenAI's GPT-3 engine
 
 Requirements:
 
-Openai key ( visit: openai beta access to get your api key)
+1) Openai key ( visit: openai beta access to get your api key)
+2) pip install openai
 
-pip install openai
 
 
